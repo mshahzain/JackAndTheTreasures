@@ -1,0 +1,572 @@
+fileFormatVersion: 2
+guid: 521d32b47e86d4a41a75bf5a5cedc784
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: axe_timeless_power___main_character_sprites_by_ifes-d9dbh3r_0
+    21300002: axe_timeless_power___main_character_sprites_by_ifes-d9dbh3r_1
+    21300004: axe_timeless_power___main_character_sprites_by_ifes-d9dbh3r_2
+    21300006: axe_timeless_power___main_character_sprites_by_ifes-d9dbh3r_3
+    21300008: axe_timeless_power___main_character_sprites_by_ifes-d9dbh3r_4
+    21300010: axe_timeless_power___main_character_sprites_by_ifes-d9dbh3r_5
+    21300012: axe_timeless_power___main_character_sprites_by_ifes-d9dbh3r_6
+    21300014: axe_timeless_power___main_character_sprites_by_ifes-d9dbh3r_7
+    21300016: axe_timeless_power___main_character_sprites_by_ifes-d9dbh3r_8
+    21300018: axe_timeless_power___main_character_sprites_by_ifes-d9dbh3r_9
+    21300020: axe_timeless_power___main_character_sprites_by_ifes-d9dbh3r_10
+    21300022: axe_timeless_power___main_character_sprites_by_ifes-d9dbh3r_11
+    21300024: axe_timeless_power___main_character_sprites_by_ifes-d9dbh3r_12
+    21300026: axe_timeless_power___main_character_sprites_by_ifes-d9dbh3r_13
+    21300028: axe_timeless_power___main_character_sprites_by_ifes-d9dbh3r_14
+    21300030: axe_timeless_power___main_character_sprites_by_ifes-d9dbh3r_15
+    21300032: axe_timeless_power___main_character_sprites_by_ifes-d9dbh3r_16
+    21300034: axe_timeless_power___main_character_sprites_by_ifes-d9dbh3r_17
+    21300036: axe_timeless_power___main_character_sprites_by_ifes-d9dbh3r_18
+    21300038: axe_timeless_power___main_character_sprites_by_ifes-d9dbh3r_19
+    21300040: axe_timeless_power___main_character_sprites_by_ifes-d9dbh3r_20
+    21300042: axe_timeless_power___main_character_sprites_by_ifes-d9dbh3r_21
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: axe_timeless_power___main_character_sprites_by_ifes-d9dbh3r_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 325
+        width: 111
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cfa1b3557852104e966dcaf267dbe47
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_timeless_power___main_character_sprites_by_ifes-d9dbh3r_1
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 325
+        width: 87
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef68b56a399fa454da8147c1ead37b05
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_timeless_power___main_character_sprites_by_ifes-d9dbh3r_2
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 325
+        width: 93
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b896d9cb475771141959e73967e914a6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_timeless_power___main_character_sprites_by_ifes-d9dbh3r_3
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 325
+        width: 103
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2513b225c79c4f64198868b1ccecec2b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_timeless_power___main_character_sprites_by_ifes-d9dbh3r_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 325
+        width: 115
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c6869afa8416414a911ee5eb403f8d2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_timeless_power___main_character_sprites_by_ifes-d9dbh3r_5
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 325
+        width: 78
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc408c1a54feaf64fbe708f60fde240b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_timeless_power___main_character_sprites_by_ifes-d9dbh3r_6
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 325
+        width: 69
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99b73186cd132ae438e2da3f3f5b99a1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_timeless_power___main_character_sprites_by_ifes-d9dbh3r_7
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 326
+        width: 90
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fae467f741acca94f8afd5d1076cd5c8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_timeless_power___main_character_sprites_by_ifes-d9dbh3r_8
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 162
+        width: 58
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f4442923f2cb31459df6e0fd3511f3f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_timeless_power___main_character_sprites_by_ifes-d9dbh3r_9
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 162
+        width: 52
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b6c7193e46304a41ae9becf077bdb46
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_timeless_power___main_character_sprites_by_ifes-d9dbh3r_10
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 162
+        width: 54
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ed06f5a7861af34ab8b80c79b615681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_timeless_power___main_character_sprites_by_ifes-d9dbh3r_11
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 162
+        width: 62
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e0acbb69c19cbd40a80581970a97996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_timeless_power___main_character_sprites_by_ifes-d9dbh3r_12
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 162
+        width: 55
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb10eb1f047659d448a0c7bcae0a3ba6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_timeless_power___main_character_sprites_by_ifes-d9dbh3r_13
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 162
+        width: 53
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b2f297950e23fd41bc8513f1d5d52b4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_timeless_power___main_character_sprites_by_ifes-d9dbh3r_14
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 162
+        width: 53
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaaf402b22b3d114284c13c20ab54356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_timeless_power___main_character_sprites_by_ifes-d9dbh3r_15
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 162
+        width: 54
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6ca7d0329aedfc4ea331763dcab1374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_timeless_power___main_character_sprites_by_ifes-d9dbh3r_16
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 0
+        width: 42
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a68d602568b8944428e68470a3d7fa19
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_timeless_power___main_character_sprites_by_ifes-d9dbh3r_17
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 0
+        width: 42
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61879ada7bd2bf34586dcaafa4c26b2f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_timeless_power___main_character_sprites_by_ifes-d9dbh3r_18
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 0
+        width: 51
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45412b73c789dac4b8dfbfc7046bcfbd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_timeless_power___main_character_sprites_by_ifes-d9dbh3r_19
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 0
+        width: 50
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2cff3f4d4b104e479d62fd0b4dd3e7d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_timeless_power___main_character_sprites_by_ifes-d9dbh3r_20
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 0
+        width: 92
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae8dc2cdc13b7284e817f9796bb78d5d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_timeless_power___main_character_sprites_by_ifes-d9dbh3r_21
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 0
+        width: 67
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5a7ec9db436e9545ae60dbee63377f2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: f4e32a662a9757f45add21ccccda0734
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
